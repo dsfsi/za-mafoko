@@ -32,6 +32,10 @@ Where any user finds technical mistakes or errors in the files, they may submit 
 | StatsSA | The Multilingual Statistical Terminology Project by Stats SA develops statistical terminology in South Africa's 11 official languages to enhance access to vital data for all citizens, ensuring a deeper understanding and connection to the information that affects their lives. | TBD | [data/stassa/multilingual_statistical_terminology_clean.csv](https://github.com/dsfsi/za-marito/blob/master/data/statssa/multilingual_statistical_terminology_clean.csv), view on [datasette](https://lite.datasette.io/?csv=https://github.com/dsfsi/za-marito/blob/master/data/statssa/multilingual_statistical_terminology_clean.csv) | [data/statssa/multilingual_statistical_terminology_clean.json](https://github.com/dsfsi/za-marito/blob/master/data/statssa/multilingual_statistical_terminology_clean.json), view on [datasette](https://lite.datasette.io/?json=https://github.com/dsfsi/za-marito/blob/master/data/statssa/multilingual_statistical_terminology_clean.json) ||[data/statssa/multilingual_statistical_terminology_clean.xlsx](https://github.com/dsfsi/za-marito/blob/master/data/statssa/multilingual_statistical_terminology_clean.xlsx) |
 
 
+## Licence
+
+* All datasets, unless stated, are licensed under [Nwulite Obodo Open Data License - Version 1.0](https://licensingafricandatasets.com/nwulite-obodo-license)
+
 
 ## Getting Started
 -----------
