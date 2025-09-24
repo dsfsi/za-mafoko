@@ -75,4 +75,24 @@ For the overall project the citation should be
 }
 ```
 
+### DSAC Attribution
+
+| Attribution Name                                                                                              | Dataset Link                                                                                          |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [DSAC Election Terminology Attribution](./data/dsac/attribution-dsac-election-terminology-dictionary.md)                         | [Dataset](./data/dsac/dsac_election_terminology_dictionary.csv)                             |
+| [DSAC Life Orientation Terminology Attribution](./data/dsac/attribution-dsac-life-orientation-terminology-term-list.md)          | [Dataset](./data/dsac/dsac_life_orientation_terminology_term_list.csv)                      |
+| [DSAC Arts & Culture Terminology – Intermediate Phase Attribution](./data/dsac/attribution-dsac-multilingual-arts-&-culture-intermediate-phase-terminology-list.md) | [Dataset](./data/dsac/dsac_multilingual_arts_&_culture_intermediate_phase_terminology_list.csv) |
+| [DSAC Engineering & Construction Terminology Attribution](./data/dsac/attribution-dsac-multilingual-engineering-and-construction-terminology.md) | [Dataset](./data/dsac/dsac_multilingual_engineering_and_construction_terminology.csv)       |
+| [DSAC Financial Terminology Attribution](./data/dsac/attribution-dsac-multilingual-financial-terminology.md)                     | [Dataset](./data/dsac/dsac_multilingual_financial_terminology.csv)                          |
+| [DSAC HIV and AIDS Terminology Attribution](./data/dsac/attribution-dsac-multilingual-hiv-and-aids-terminology.md)               | [Dataset](./data/dsac/dsac_multilingual_hiv_and_aids_terminology.csv)                       |
+| [DSAC Human, Social, Economic & Management Sciences Terminology Attribution](./data/dsac/attribution-dsac-multilingual-human-social-economic-and-management-sciences-terminology.md) | [Dataset](./data/dsac/dsac_multilingual_human_social_economic_and_management_sciences_terminology.csv) |
+| [DSAC ICT Dictionary Attribution](./data/dsac/attribution-dsac-multilingual-ict-dictionary.md)                                     | [Dataset](./data/dsac/dsac_multilingual_ict_dictionary.csv)                                 |
+| [DSAC Mathematics Dictionary (Grades R–6) Attribution](./data/dsac/attribution-dsac-multilingual-mathematics-dictionary-r-to-6.md) | [Dataset](./data/dsac/dsac_multilingual_mathematics_dictionary_r_to_6.csv)                  |
+| [DSAC Parliamentary Dictionary Attribution](./data/dsac/attribution-dsac-multilingual-parliamentary-dictionary.md)               | [Dataset](./data/dsac/dsac_multilingual_parliamentary_dictionary.csv)                       |
+| [DSAC Soccer Terminology Attribution](./data/dsac/attribution-dsac-multilingual-soccer-terminology.md)                           | [Dataset](./data/dsac/dsac_multilingual_soccer_terminology.csv)                             |
+| [DSAC Natural Science & Technology Term List – Nguni Languages Attribution](./data/dsac/attribution-dsac-natural-science-and-technology-term-list-nguni-languages.md) | [Dataset](./data/dsac/dsac_natural_science_and_technology_term_list_nguni_languages.csv)    |
+| [DSAC Natural Sciences & Technology Dictionary – Sotho Attribution](./data/dsac/attribution-dsac-natural-sciences-and-technology-dictionary-sotho.md) | [Dataset](./data/dsac/dsac_natural_sciences_and_technology_dictionary_sotho.csv)            |
+| [DSAC Natural Sciences & Technology (Grades 4–6) Attribution](./data/dsac/attribution-dsac-natural-sciences-and-technology-for-grade-4-to-6.md) | [Dataset](./data/dsac/dsac_natural_sciences_and_technology_for_grade_4_to_6.csv)            |
+| [DSAC Pharmacy Terminology – First Edition Attribution](./data/dsac/attribution-dsac-pharmacy-first-edition.md)                  | [Dataset](./data/dsac/dsac_pharmacy_first_edition.csv)                                      |
+| [DSAC Pharmacy Terminology – Second Edition Attribution](./data/dsac/attribution-dsac-pharmarcy-second-edition.md)               | [Dataset](./data/dsac/dsac_pharmarcy_second_edition.csv)                                    |
 
