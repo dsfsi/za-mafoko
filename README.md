@@ -75,6 +75,18 @@ For the overall project the citation should be
 }
 ```
 
+```
+@article{marivate2025mafokostructuringbuildingopen,
+title={Mafoko: Structuring and Building Open Multilingual Terminologies for South African NLP}, 
+author={Vukosi Marivate and Isheanesu Dzingirai and Fiskani Banda and Richard Lastrucci and Thapelo Sindane and Keabetswe Madumo and Kayode Olaleye and Abiodun Modupe and Unarine Netshifhefhe and Herkulaas Combrink and Mohlatlego Nakeng and Matome Ledwaba},
+year={2025},
+eprint={2508.03529},
+archivePrefix={arXiv},
+primaryClass={cs.CL},
+url={https://arxiv.org/abs/2508.03529}, 
+}
+```
+
 ### DSAC Attribution
 
 | Attribution Name                                                                                              | Dataset Link                                                                                          |
