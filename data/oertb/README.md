@@ -10,4 +10,4 @@ The purpose of the Open Resource Term Bank (OERTB) project is to support the col
 
 # LICENSE for Data
 
-The files on [https://github.com/dsfsi/za-marito/](https://github.com/dsfsi/za-marito/) are under [NOODL V1](https://github.com/dsfsi/za-marito/blob/master/data/oertb/LICENSE) and should acknowledge the Original OERTB + _Open Database_ authors list.
+The files on [https://github.com/dsfsi/za-mafoko/](https://github.com/dsfsi/za-mafoko/) are under [NOODL V1](https://github.com/dsfsi/za-mafoko/blob/master/data/oertb/LICENSE) and should acknowledge the Original OERTB + _Open Database_ authors list.
