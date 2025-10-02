@@ -152,8 +152,10 @@ This work makes use of the **MULTILINGUAL LIFE ORIENTATION INTERMEDIATE PHASE TE
 - None
 
 ## License Information
-This file is licensed under **CC-BY-SA-4.0**.  
-Acknowledgements must include the **Department of Sports Arts and Culture Multilingual Terminology Lists** and the **Open Database authors**.
+This file is licensed under the project license, which can be found in the main directory of the project.
+
+## Attribution
+Acknowledgements must include the Department of Sports, Arts and Culture Multilingual Terminology Lists, and the Mafoko Project Authors (whose attribution notes as contained in the main README.md) of the project.
 
 ## Repository Information
-Source: [https://github.com/dsfsi/za-marito/](https://github.com/dsfsi/za-marito/)
+Source: [https://github.com/dsfsi/za-mafoko/](https://github.com/dsfsi/za-mafoko/)
