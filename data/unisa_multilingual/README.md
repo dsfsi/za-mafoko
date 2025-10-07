@@ -9,4 +9,4 @@ The South African Multilingual Linguistic Terminology (SAMLT) Project is a compr
 
 # LICENSE for Data
 
-The files on [https://github.com/dsfsi/za-mafoko](https://github.com/dsfsi/za-mafoko) are under [NOODL V1.0](https://github.com/dsfsi/za-mafoko/blob/master/data/unisa_multilingual/LICENSE) and should acknowledge the riginal UNISA Multilingual Linguistic Terminology + _Open Database_ authors list.
+The files on [https://github.com/dsfsi/za-mafoko](https://github.com/dsfsi/za-mafoko) are under [NOODL V1.0](https://github.com/dsfsi/za-mafoko/blob/master/data/unisa_multilingual/LICENSE) and should acknowledge the Original UNISA Multilingual Linguistic Terminology + _Open Database_ authors list.
