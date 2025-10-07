@@ -5,7 +5,7 @@ Department of Sports Arts and Culture Multilingual Terminology Lists
 # Author(s)
 
 * Author(s) - Original DSAC Multilingual Terminology Lists
-* Author(s) - Original OERTB + _Open Database_
+* Author(s) - Original DSAC Multilingual Terminology Lists + _Open Database_
 
 # LICENSE for Data
 
