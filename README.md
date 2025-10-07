@@ -37,7 +37,7 @@ Where any user finds technical mistakes or errors in the files, they may submit 
 
 ## Licence
 
-* All datasets, unless stated, are licensed under [Nwulite Obodo Open Data License - Version 1.0](https://licensingafricandatasets.com/nwulite-obodo-license)
+* All datasets, unless stated, are licensed under [Nwulite Obodo Open Data License - Version 1.0](https://licensingafricandatasets.com/nwulite-obodo-license) or [CC-BY-NC-SA 2.5 ZA](https://creativecommons.org/licenses/by-nc-sa/2.5/za/)
 
 
 ## Getting Started
