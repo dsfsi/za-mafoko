@@ -3,6 +3,8 @@ Mafoko: South African Terminology, Lexicon and Glossary Project
 
 Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17484991.svg)](https://doi.org/10.5281/zenodo.17484991)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.03529-b31b1b.svg)](https://arxiv.org/abs/2508.03529)
 
 ## Table of contents 
 
